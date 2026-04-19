@@ -18,4 +18,4 @@ Aqui abaixo segue a planilha utilizada de modelo para o genrecimento dos dados n
 
 
 A captura de tela da dashboard criada
-![dashboard](dashboard)
+![dashboard](dashboard.png)

@@ -15,7 +15,15 @@ Aqui abaixo segue a planilha utilizada de modelo para o genrecimento dos dados n
 
 ![planilha](planilha.xlsx)
 
-
+---
 
 A captura de tela da dashboard criada
 ![dashboard](dashboard.png)
+
+---
+
+Duas imagens dos dados, o restante está na planilha mencionada acima, apenas para uma ideia dos dados utilizados
+
+
+![base1](base1.png)
+![base2](base2.png)

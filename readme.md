@@ -15,3 +15,7 @@ Aqui abaixo segue a planilha utilizada de modelo para o genrecimento dos dados n
 
 ![planilha](planilha.xlsx)
 
+
+
+A captura de tela da dashboard criada
+![dashboard](dashboard)
